@@ -1,1 +1,3 @@
-# Konversi-Suhu_SIC_Assignment
+Konversi-Suhu_SIC_Assignment
+Sustri Elina Simamora
+Universitas Internasional Semen Indonesia
